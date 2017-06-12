@@ -13,14 +13,15 @@ While there are a plethora of great guides out there, I wanted to write somethin
   
 # I The Interview
 
-1. Getting Ready
-2. Strategies for a great interview 
-3. Conducting an Interview
+The book does an excellent job about discussing the way engineering interviews are conducted.  Make a point to read this section. 
 
 # II Datastructures and Algorithms
-4. Primitive Types
-    4.0. [Bootcamp Cheat Sheet](/primitive-types/cheetSheet.md)
-    4.1. [Computing the Parity Bit](/primitive-types/cpp/parity.cpp)
+## [Primitive Types](/primitive-types/cheetSheet.md)
+| Number | Name  | Time Complexity  | Answer |  
+|---|---|---|---|
+| 4.1 | Computing the parity of a word | O(log n) | [cpp](/primitive-types/cpp/parity.cpp)|
+
+
 
 ## Installation
 
