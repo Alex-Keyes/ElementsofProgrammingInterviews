@@ -11,11 +11,11 @@ While there are a plethora of great guides out there, I wanted to write somethin
   provide a guide to people who aren't as enthused with Leetcode or InterviewBit and would like more prep than just
   tech questions, asked in a vacuum without information on how to improve or consider the problem at hand.  
   
-# I The Interview
+# The Interview
 
 The book does an excellent job about discussing the way engineering interviews are conducted.  Make a point to read this section. 
 
-# II Datastructures and Algorithms
+# Datastructures and Algorithms
 ## [Primitive Types](/primitive-types/cheetSheet.md)
 | Number | Name  | Time Complexity  | Answer |  
 |---|---|---|---|
