@@ -99,3 +99,8 @@ Here is a quick one-off truth table that runs through the bitwise operations giv
 |0|1|0|1|1|0|1|0|
 |0|0|0|0|0|1|1|1|
 
+# Masks
+A mask is data that is used for bitwise operations, particularly in a bit field.
+What does that mean?
+Essentially, bitmasks are a way to manipulate values inside of a single bit.  Essentially you are 
+packaging together a series of values in the same bit.  Checkout [this](http://codeforces.com/blog/entry/18169) post for more information.
