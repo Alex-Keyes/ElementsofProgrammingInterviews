@@ -16,7 +16,7 @@ While there are a plethora of great guides out there, I wanted to write somethin
 The book does an excellent job about discussing the way engineering interviews are conducted.  Make a point to read this section. 
 
 # Datastructures and Algorithms
-## [Primitive Types](/primitive-types/cheetSheet.md)
+## [Primitive Types](/primitive-types/cheatSheet.md)
 | Number | Name  | Time Complexity  | Answer |  
 |---|---|---|---|
 | 4.1 | Computing the parity of a word | O(log n) | [cpp](/primitive-types/cpp/parity.cpp)|
