@@ -103,4 +103,9 @@ Here is a quick one-off truth table that runs through the bitwise operations giv
 A mask is data that is used for bitwise operations, particularly in a bit field.
 What does that mean?
 Essentially, bitmasks are a way to manipulate values inside of a single bit.  Essentially you are 
-packaging together a series of values in the same bit.  Checkout [this](http://codeforces.com/blog/entry/18169) post for more information.
+packaging together a series of values in the same bit.  Checkout [this post](http://codeforces.com/blog/entry/18169) for more information.
+
+# Lowermost setBit
+# Signedness
+# Using a Cache
+# Commutativity and Associativity in parallel and reorder operations
