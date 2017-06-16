@@ -105,7 +105,9 @@ What does that mean?
 Essentially, bitmasks are a way to manipulate values inside of a single bit.  Essentially you are 
 packaging together a series of values in the same bit.  Checkout [this post](http://codeforces.com/blog/entry/18169) for more information.
 
-# Lowermost setBit
+# Clearing Lowermost set bit
+The expression x & (x-1) clears the lowermost set bit.  The expression x&~(x-1)  extracts the lowermost
+bit of a.  Try this out for yourself.  Here's a helpful [Stackoverflow](https://softwareengineering.stackexchange.com/questions/219721/clearing-the-lowest-set-bit-of-a-number) explanation. 
 # Signedness
 # Using a Cache
 # Commutativity and Associativity in parallel and reorder operations
